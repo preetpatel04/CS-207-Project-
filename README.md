@@ -35,4 +35,4 @@ Dispencing air pump
 
 ### Circuit 
 
-![](Desktop/CS 207 project.png)
+<img src="user/preet/Desktop/CS 207 project.png">
