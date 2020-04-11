@@ -39,11 +39,11 @@ Dispencing air pump
 
 ## circuit assamble
 
-<img src="project1.jpeg">
+<img src="project2.jpeg">
 
 ## Final model 
 
-<img src="project2.jpeg">
+<img src="project1.jpeg">
 
 ## Designing Process,
 
