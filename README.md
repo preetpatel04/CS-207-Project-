@@ -1,7 +1,8 @@
 # CS-207-Project-
 Group project ( Preet, Nisarg, Manan)
 
-Introduction,
+# Introduction,
+
 The project undertaken for this term was an automatic water dispensing machine. This
 was done so that people can easily get water and need not to turn on the taps. In this way it is
 very hygienic as the taps have germs on it. If this type of machine is applied in public places
@@ -15,3 +16,20 @@ than 3 cm away from the sensor, it activates the relay which turn on the micro a
 micro air pump creates the pressure inside the tube so the water comes out from another tube and
 water falls in the glass. If the temperature is more than 26◦ C, which is detected by the
 temperature sensor, the servo motor activates, which releases the flap and ice cubes drop in.
+
+# materials used : 
+
+Ultrasoni sensor 
+
+DC motor 
+
+Servo motor 
+
+Transistor 
+
+diode 
+
+registor
+
+Dispencing air pump
+
