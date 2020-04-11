@@ -33,3 +33,6 @@ registor
 
 Dispencing air pump
 
+### Circuit 
+
+![](Users/preet/Desktop/CS 207 project.png)
